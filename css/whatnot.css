@@ -1,0 +1,42 @@
+
+body{
+    background: burlywood;
+}
+h1,h2,h3{
+    background:#d1911a ;
+    color:#9c520d;
+}
+h1{
+    font-size: 40px;
+}
+h2,h3{
+    font-size: 30px;
+}
+h4{
+    color: brown;
+}
+
+i{
+    background: cadetblue;
+}
+
+ p a {
+     font-size: 15px;
+     color: rgb(235, 90, 22);
+ }
+
+ p .red
+ {
+color:rebeccapurple;
+ }
+
+p .colores
+{
+color:ec68c0;
+font-size: 20px;
+}
+
+a [href="https://www.healthytexaswomen.org/ "]  
+{ 
+     color:colores;
+ }
