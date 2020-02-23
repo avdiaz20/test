@@ -1,4 +1,0 @@
-[0223/164857.206:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
-[0223/164857.208:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
-[0223/164857.208:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
-[0223/164857.208:ERROR:exception_snapshot_win.cc(98)] thread ID 9500 not found in process
