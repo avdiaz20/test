@@ -1,0 +1,44 @@
+
+
+  .padre {
+     margin: 0 auto; 
+     margin-top: 30px;
+     width: 900px;
+     color:rgb(35, 206, 12);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 1.3em;
+
+}
+
+header{
+    background-color: khaki;
+    height: 120px;
+    padding: 5px;
+    border: 3px solid rgb(204, 184, 7);
+
+}
+aside{
+    background-color: khaki;
+    width: 350px;
+    height: 120px;
+    padding: 5 px;
+    border: 3px solid rgb(204, 184, 7);
+ float: left;
+}
+main{
+    background-color: khaki;
+    width: 350px    ;
+    margin:200 px 50px;
+    height: 120px;
+    padding: 5px;
+    border: 3px solid rgb(204, 184, 7);
+    
+}
+footer{
+    background-color: khaki;
+    width:  885px;
+    height: 120px;
+    padding: 5px;
+    border: 3px solid rgb(204, 184, 7);
+}
+}
